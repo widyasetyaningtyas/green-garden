@@ -1,0 +1,103 @@
+body img{
+	width: 100%;
+	height: auto;
+}
+.wrapper-header{
+	background-color: #21323b;
+}
+.logo{
+	padding:10px 0px;
+}
+.logo a{
+	display: block;
+	width: 250px;
+}
+.top-menu{
+	padding: 10px 0px;
+	text-align: right;
+}
+.top-menu ul{
+	float: right;
+}
+.top-menu ul.nav li{
+	float: left;
+}
+.top-menu ul.nav li a{
+ color: #fff;
+}
+.top-menu ul.nav li a.active,
+.top-menu ul.nav li a:hover{
+	color: #a3a4a5;
+}
+@font-face{
+	font-family: Poppins;
+	src: url('../Fonts/Poppins/Poppins-Regular.ttf');
+}
+@font-face{
+	font-family: Signpainter;
+	src: url('../Fonts/Signpainter-HouseScript-Regular/Signpainter-HouseScript-Regular.ttf');
+}
+.carousel-caption{
+	background-image: url('../Images/banner-1.jpg');
+	height: 450px;
+	text-align:  center;
+}
+.carousel-caption h1{
+	color: #fff;
+	font-size: 76px;
+	padding-top: 100px;
+	font-family: Signpainter;
+}
+.carousel-caption h4{
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 50px;
+	font-family: Poppins;
+}
+.btn-green{
+	background-color: #4fcc4f;
+	color: white;
+	padding: 8px;
+	border-radius: 5px;
+}
+.bawah h2{
+	font-family: Signpainter;
+	font-size: 35px;
+}
+.bawah p{
+	font-family: Poppins;
+	font-size: 15px;
+}
+.bawah-slider-1 h2{
+	font-family: Signpainter;
+	font-size: 35px;
+}
+.bawah-slider-1 p{
+	font-family: Poppins;
+	font-size: 15px;
+}
+.bawah-slider-3{
+	background-color: #21323b;
+	height: 240px;
+	padding: 10px 0px;
+}
+.bawah-slider-3 img{
+	width: 200px;
+	padding: 10px 0px;
+}
+.bawah-slider-3 p{
+	font-color: white;
+	font-size: 12px;
+}
+.bawah-slider-3 h3{
+	font-size: 20px;
+}
+.bawah-slider-4{
+	font-size: 10px;
+	background-color: black;
+	height: 30px;
+	font-family: Poppins;
+}
+.footer-copyright{
+	text-align: center;
+}
